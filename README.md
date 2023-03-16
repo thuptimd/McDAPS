@@ -7,7 +7,7 @@ McDAPS runs in MATLAB, and is supported on MS Windows and MAC OS systems.
 2. Open main_DataBrowser.m and Click Run.
 
 #Example
-Examples on how to use McDAPS can be found at: https://github.com/thuptimd/McDAPS/blob/main/McDAPs_manual_v2.0.pdf
+Further details about how to use McDAPS can be found here McDAPs_manual_v2.0.pdf
 
 
 
