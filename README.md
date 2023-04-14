@@ -6,7 +6,12 @@ McDAPS runs in MATLAB, and is supported on MS Windows and MAC OS systems.
 1. Add the whole repository to your Matlab search path by addpath.m or by Home -> Set Path -> Add Folder.
 2. Open main_DataBrowser.m and Click Run.
 
-#Example
+
+#Sample File is stored in the folder "Setting"
+sample0632_Pain20140722Raw.mat
+
+
+#Manual
 Further details about how to use McDAPS can be found here McDAPs_manual_v2.0.pdf
 
 
